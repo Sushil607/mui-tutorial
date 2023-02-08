@@ -55,8 +55,8 @@ const MuiButton = () => {
         <Stack direction="row">
             <ButtonGroup variant="contained" orientation='vertical' size="small" color="secondary">
                 <Button onClick={()=> alert("Left Clicked...")}>Left</Button>
-                <Button >Center</Button>
-                <Button >Right</Button>
+                <Button onClick={()=> alert("Center Clicked...")}>Center</Button>
+                <Button onClick={()=> alert("Right Clicked...")}>Right</Button>
             </ButtonGroup>
         </Stack>
     </Stack>
