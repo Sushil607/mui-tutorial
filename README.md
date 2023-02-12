@@ -1,3 +1,3 @@
 # MUI Tutorial by Codevolution
 
-## All topics
+## All topics covered
